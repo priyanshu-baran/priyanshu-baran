@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<!-- <img src = "https://user-images.githubusercontent.com/76744982/170121642-4431a812-83f7-4e57-bde9-4235a322bf15.gif" > -->
+![Hey there, I'm Cyris. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/priyanshu-baran/priyanshu-baran/raw/master/header.gif)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
 # 💫About Me :
 
