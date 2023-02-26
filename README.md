@@ -1,18 +1,18 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 ![Hey there, I'm Priyanshu. I'm a frontend developer and a maker.](https://github.com/priyanshu-baran/priyanshu-baran/raw/master/header.gif)
 
+<center>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=priyanshu-baran&left_color=green&right_color=red)
+</center>
 
 # 💫About Me :
 
-I'm a Frontend Developer from India
-
-- 👯 I’m looking to collaborate on Open Source Projects, specifically based on Java and React Js
-
+I am a 2nd-year Undergraduate Student at Chandigarh University, pursuing BTech in Electrical Engineering, who is passionate about Web Development,
 I mostly use Java, HTML, JavaScript and CSS on daily basis.
 Talk to me about Techs, GeoPolitics and Games.<br/>
 
+- 👯 I’m looking to collaborate on Open Source Projects, specifically based on Java and React Js
 - 📫 How to reach me: elitecoder.coregamer1803@gmail.com
 - 🔭 I’m currently working on Voice Assistant using Java
 - 🌱 I’m currently learning React Js
@@ -21,11 +21,26 @@ Talk to me about Techs, GeoPolitics and Games.<br/>
 
 ## 🌐Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu-baran) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Priyanshu_Baran)
+[![Gmail Badge](https://img.shields.io/badge/-elitecoder.coregamer1803@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:elitecoder.coregamer1803@gmail.com 'Connect via Email')
+[![Linkedin Badge](https://img.shields.io/badge/-priyanshu-baran-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-baran 'Connect on LinkedIn')
+[![Twitter Badge](https://img.shields.io/badge/-@Priyanshu_Baran-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=Priyanshu_Baran 'Follow on Twitter')
 
-# 💻Tech Stack
+# 💻Tech Skills
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![ReactJs] (https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![ExpressJs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+# 💻Software Skills
+
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 # 📊GitHub Stats :
 
