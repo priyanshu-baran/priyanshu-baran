@@ -2,15 +2,11 @@
 
 ![Hey there, I'm Priyanshu. I'm a frontend developer and a maker.](https://github.com/priyanshu-baran/priyanshu-baran/raw/master/header.gif)
 
-<center>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=priyanshu-baran&left_color=green&right_color=red)
-</center>
 
 # 💫About Me :
 
-I am a 2nd-year Undergraduate Student at Chandigarh University, pursuing BTech in Electrical Engineering, who is passionate about Web Development,
-I mostly use Java, HTML, JavaScript and CSS on daily basis.
-Talk to me about Techs, GeoPolitics and Games.<br/>
+I am a 2nd-year Undergraduate Student at Chandigarh University, pursuing BTech in Electrical Engineering, who is passionate about Web Development and IOT based projects. I mostly use HTML, JavaScript and CSS on daily basis.<br/>
 
 - 👯 I’m looking to collaborate on Open Source Projects, specifically based on Java and React Js
 - 📫 How to reach me: elitecoder.coregamer1803@gmail.com
@@ -22,7 +18,7 @@ Talk to me about Techs, GeoPolitics and Games.<br/>
 ## 🌐Socials
 
 [![Gmail Badge](https://img.shields.io/badge/-elitecoder.coregamer1803@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:elitecoder.coregamer1803@gmail.com 'Connect via Email')
-[![Linkedin Badge](https://img.shields.io/badge/-priyanshu-baran-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-baran 'Connect on LinkedIn')
+[![Linkedin Badge](https://img.shields.io/badge/-priyanshu-baran-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-baran/ 'Connect on LinkedIn')
 [![Twitter Badge](https://img.shields.io/badge/-@Priyanshu_Baran-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=Priyanshu_Baran 'Follow on Twitter')
 
 # 💻Tech Skills
@@ -30,7 +26,7 @@ Talk to me about Techs, GeoPolitics and Games.<br/>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![ReactJs] (https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![ReactJs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
