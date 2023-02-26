@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 <!-- ![Hey there, I'm Priyanshu. I'm a frontend developer and a maker.](https://github.com/priyanshu-baran/priyanshu-baran/raw/master/header.gif) -->
-<p align="center" width="100%">
-    ![visitors](https://visitor-badge.glitch.me/badge?page_id=priyanshu-baran&left_color=green&right_color=red)
-</p>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=priyanshu-baran&left_color=green&right_color=red)
 
 # 💫About Me :
 
@@ -40,7 +39,7 @@ I am a 2nd-year Undergraduate Student at Chandigarh University, pursuing BTech i
 
 # 📊GitHub Stats :
 
-![](https://github-readme-stats.vercel.app/api?username=priyanshu-baran&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&show_icons=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=priyanshu-baran&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&show_icons=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-baran&theme=blue-green&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-baran&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
