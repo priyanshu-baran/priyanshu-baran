@@ -1,25 +1,24 @@
-<!-- ### Hi there 👋 -->
+### Hi there 👋
 
-![Hey there, I'm Priyanshu. I'm a frontend developer and a maker.](https://github.com/priyanshu-baran/priyanshu-baran/raw/master/header.gif)
-
+<!-- ![Hey there, I'm Priyanshu. I'm a frontend developer and a maker.](https://github.com/priyanshu-baran/priyanshu-baran/raw/master/header.gif) -->
+<p align="center" width="100%">
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=priyanshu-baran&left_color=green&right_color=red)
+</p>
 
 # 💫About Me :
 
 I am a 2nd-year Undergraduate Student at Chandigarh University, pursuing BTech in Electrical Engineering, who is passionate about Web Development and IOT based projects. I mostly use HTML, JavaScript and CSS on daily basis.<br/>
 
-- 👯 I’m looking to collaborate on Open Source Projects, specifically based on Java and React Js
 - 📫 How to reach me: elitecoder.coregamer1803@gmail.com
 - 🔭 I’m currently working on Voice Assistant using Java
 - 🌱 I’m currently learning React Js
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I used to play mobile games so often that sometimes it even lasts for half a day 😁😅.
+- ⚡ Fun fact: I used to play mobile games so often that sometimes it even lasts for half a day 😁😅
 
 ## 🌐Socials
 
 [![Gmail Badge](https://img.shields.io/badge/-elitecoder.coregamer1803@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:elitecoder.coregamer1803@gmail.com 'Connect via Email')
 [![Linkedin Badge](https://img.shields.io/badge/-Priyanshu_Baran-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-baran/ 'Connect on LinkedIn')
-[![Linkedin Badge](https://img.shields.io/badge/-Samujjwaal%20Dey-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samujjwaal/ 'Connect on LinkedIn')
 [![Twitter Badge](https://img.shields.io/badge/-@Priyanshu_Baran-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=Priyanshu_Baran 'Follow on Twitter')
 
 # 💻Tech Skills
@@ -41,7 +40,7 @@ I am a 2nd-year Undergraduate Student at Chandigarh University, pursuing BTech i
 
 # 📊GitHub Stats :
 
-![Priyanshu Baran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshu-baran&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&show_icons=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=priyanshu-baran&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&show_icons=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-baran&theme=blue-green&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-baran&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
