@@ -20,11 +20,11 @@ Talk to me about Techs, GeoPolitics and Games.
 
 # 📊GitHub Stats :
 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=priyanshu-baran&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-baran&theme=nightowl&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-baran&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact) -->
+![](https://github-readme-stats.vercel.app/api?username=priyanshu-baran&theme=dark&hide_border=true&include_all_commits=false&count_private=false&show_icons=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-baran&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-baran&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshu-baran)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshu-baran)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### ✍️Random Dev Quote
 
