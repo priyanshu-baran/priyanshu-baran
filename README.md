@@ -4,11 +4,18 @@
 
 # 💫About Me :
 
-I'm Android Developer from India
-UnderGrad Student in the field of Information Technology from VIT. Vellore
-Want to Collaborate on Open Source Projects, specifically based on Android and Flutter.
-I mostly use Java, Kotlin and Dart daily.
-Talk to me about Techs, GeoPolitics and Games.
+I'm a Frontend Developer from India
+
+- 👯 I’m looking to collaborate on Open Source Projects, specifically based on Java and React Js
+
+I mostly use Java, HTML, JavaScript and CSS on daily basis.
+Talk to me about Techs, GeoPolitics and Games.<br/>
+
+- 📫 How to reach me: elitecoder.coregamer1803@gmail.com
+- 🔭 I’m currently working on Voice Assistant using Java
+- 🌱 I’m currently learning React Js
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I used to play mobile games so often that sometimes it even lasts for half a day 😁😅.
 
 ## 🌐Socials
 
@@ -20,27 +27,19 @@ Talk to me about Techs, GeoPolitics and Games.
 
 # 📊GitHub Stats :
 
-![](https://github-readme-stats.vercel.app/api?username=Priaynshu Baran&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&show_icons=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Priaynshu-Baran&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&show_icons=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-baran&theme=blue-green&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-baran&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshu-baran)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### ✍️Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=midnight-purple)
 
 <!--
-**Haneet-Arya/Haneet-Arya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**priyanshu-baran/priyanshu-baran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
