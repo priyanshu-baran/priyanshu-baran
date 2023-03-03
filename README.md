@@ -2,7 +2,7 @@
 
 <!-- ![Hey there, I'm Priyanshu. I'm a frontend developer and a maker.](https://github.com/priyanshu-baran/priyanshu-baran/raw/master/header.gif) -->
 
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=priyanshu-baran&left_color=green&right_color=red) -->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=priyanshu-baran&left_color=green&right_color=red)
 
 # 💫About Me :
 
