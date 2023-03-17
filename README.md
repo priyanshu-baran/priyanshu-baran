@@ -40,7 +40,7 @@ I am a 2nd-year Undergraduate Student at Chandigarh University, pursuing BTech i
 # 📊GitHub Stats :
 
 ![](https://github-readme-stats.vercel.app/api?username=priyanshu-baran&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&show_icons=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-baran&theme=blue-green&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-baran&theme=blue-green&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-baran&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- ### ✍️Random Dev Quote -->
