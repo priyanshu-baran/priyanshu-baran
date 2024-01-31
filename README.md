@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 ![Hey there, I'm Priyanshu. I'm a frontend developer and a maker.](https://github.com/priyanshu-baran/priyanshu-baran/raw/master/header.gif)
 
